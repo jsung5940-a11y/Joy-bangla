@@ -1,0 +1,6 @@
+{
+  "name": "Joy Bangla - Electronics Store & Repair Lab",
+  "description": "Premium dark tech destination for buying and repairing gaming PCs, curved monitors, high-speed SSDs, and HDDs with certified chip-level diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
